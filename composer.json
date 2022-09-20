@@ -1,0 +1,17 @@
+{
+  "name": "light/system",
+  "authors": [
+    {
+      "name": "Edward Komissarov",
+      "email": "execrot@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Light\\System\\": "src/"
+    }
+  }
+}
